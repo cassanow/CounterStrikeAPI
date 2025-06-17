@@ -1,0 +1,6 @@
+@CounterStrikeAPI_HostAddress = http://localhost:5273
+
+GET {{CounterStrikeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
